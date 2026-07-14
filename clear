@@ -1,0 +1,23 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e0bba26..60eee81 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -42,6 +42,18 @@[m
+             <button>Voir le profil</button>[m
+         </div>[m
+ [m
+[32m+[m[32m        <div class="card">[m
+[32m+[m[32m            <img src="https://via.placeholder.com/120" alt="Photo">[m
+[32m+[m[32m            <h2>oussema </h2>[m
+[32m+[m[32m            <p><strong>ID :</strong> 003</p>[m
+[32m+[m[32m            <p><strong>Email :</strong> chaima@email.com</p>[m
+[32m+[m[32m            <p><strong>Téléphone :</strong> +216 99 111 222</p>[m
+[32m+[m[32m            <button>Voir le profil</button>[m
+[32m+[m[32m        </div>[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+     </main>[m
+ [m
+ </body>[m
